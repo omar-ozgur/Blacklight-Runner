@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Score.js">
+    <Files>
+      <File FileName="Assets\Highscore\Read Me\Create database table.txt" Line="1" Column="1" />
+      <File FileName="Assets\Highscore\Script\Highscore.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TotalDeaths.js" Line="8" Column="25" />
+      <File FileName="Assets\Highscores.js" Line="9" Column="38" />
+      <File FileName="Assets\Scripts\ScoreSelect.js" Line="21" Column="65" />
+      <File FileName="Assets\Scripts\WorldSelect .js" Line="56" Column="35" />
+      <File FileName="Assets\Scripts\Score.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

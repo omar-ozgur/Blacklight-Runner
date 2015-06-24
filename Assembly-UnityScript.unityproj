@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{F5C19580-3C2E-A1C9-4985-FBB6DAC0DD9A}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-UnityScript</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_ANDROID;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_AUDIO_FMOD;ENABLE_MONO;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_GENERICS;ENABLE_SUBSTANCE;INCLUDE_WP8SUPPORT;ENABLE_WWW;ENABLE_IMAGEEFFECTS;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;ENABLE_CACHING;ENABLE_CLOTH;UNITY_ANDROID_API;ENABLE_2D_PHYSICS;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;UNITY_4_3_0;UNITY_4_3;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_WIN</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>D:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>D:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Scripts\About.js" />
+     <Compile Include="Assets\Scripts\BackButton.js" />
+     <Compile Include="Assets\Scripts\Checkpoint.js" />
+     <Compile Include="Assets\Scripts\Colors!.js" />
+     <Compile Include="Assets\Scripts\Copyright.js" />
+     <Compile Include="Assets\Scripts\Counter.js" />
+     <Compile Include="Assets\Scripts\Credits.js" />
+     <Compile Include="Assets\Scripts\Death.js" />
+     <Compile Include="Assets\Scripts\DestroyTimer.js" />
+     <Compile Include="Assets\Scripts\Don&apos;tDestroy.js" />
+     <Compile Include="Assets\Scripts\ExtremeMode.js" />
+     <Compile Include="Assets\Scripts\Fallout.js" />
+     <Compile Include="Assets\Scripts\Fire.js" />
+     <Compile Include="Assets\Scripts\Flip.js" />
+     <Compile Include="Assets\Scripts\Framerate.js" />
+     <Compile Include="Assets\Scripts\Goal.js" />
+     <Compile Include="Assets\Scripts\Help.js" />
+     <Compile Include="Assets\Scripts\Highscores.js" />
+     <Compile Include="Assets\Scripts\Info.js" />
+     <Compile Include="Assets\Scripts\LevelName.js" />
+     <Compile Include="Assets\Scripts\Loading.js" />
+     <Compile Include="Assets\Scripts\Menu.js" />
+     <Compile Include="Assets\Scripts\Moving.js" />
+     <Compile Include="Assets\Scripts\Music.js" />
+     <Compile Include="Assets\Scripts\MusicManager.js" />
+     <Compile Include="Assets\Scripts\MusicToggle.js" />
+     <Compile Include="Assets\Scripts\OldLevel.js" />
+     <Compile Include="Assets\Scripts\Perspective.js" />
+     <Compile Include="Assets\Scripts\Perspective1.js" />
+     <Compile Include="Assets\Scripts\Quit.js" />
+     <Compile Include="Assets\Scripts\Quit2.js" />
+     <Compile Include="Assets\Scripts\ResetStats.js" />
+     <Compile Include="Assets\Scripts\Restart.js" />
+     <Compile Include="Assets\Scripts\Rotate-X1.js" />
+     <Compile Include="Assets\Scripts\Rotate-Z1.js" />
+     <Compile Include="Assets\Scripts\RotateX1.js" />
+     <Compile Include="Assets\Scripts\RotateZ1.js" />
+     <Compile Include="Assets\Scripts\RotateZ2.js" />
+     <Compile Include="Assets\Scripts\Scaler40.js" />
+     <Compile Include="Assets\Scripts\Score.js" />
+     <Compile Include="Assets\Scripts\ScoreSelect.js" />
+     <Compile Include="Assets\Scripts\Spin.js" />
+     <Compile Include="Assets\Scripts\Spinning.js" />
+     <Compile Include="Assets\Scripts\Timer.js" />
+     <Compile Include="Assets\Scripts\TimerCounter.js" />
+     <Compile Include="Assets\Scripts\TimerManager.js" />
+     <Compile Include="Assets\Scripts\TotalDeaths.js" />
+     <Compile Include="Assets\Scripts\WorldSelect .js" />
+     <Compile Include="Assets\Scripts\noCursor.js" />
+     <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-Basic.shader" />
+     <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
+     <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-BasicOutline.shader" />
+     <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-LightedOutline.shader" />
+     <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-Lighted.shader" />
+     <None Include="Assets\Highscore\Read Me\Read Me.txt" />
+     <None Include="Assets\Highscore\Read Me\Create database table.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{C0656FA9-5E50-3541-BC05-C84F9A20FCCB}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+    <ProjectReference Include="Assembly-UnityScript-firstpass.unityproj">
+      <Project>{77ECDE17-6B50-CAC8-1E0A-E51A57BEE0B4}</Project>      <Name>Assembly-UnityScript-firstpass</Name>    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

@@ -1,0 +1,26 @@
+1. Import the package
+
+2. Create database
+
+3. Create table in database (use the file "create database table" - see picture 1)
+
+4. Edit common.php (find them under PHP), use notepad or notepad++ to edit
+	Change Host to your database location (e.g. MySql.Example.com), 
+	Change User to your database login name
+	Change Pass to your database login password
+	Change Databasename to your database name
+	Change SecretKey to your secretKey in unity
+(see picture 2)
+
+5. Upload the PHP folder to your server (crossdomain.xml must be placed in the root folder)
+
+6. Go to Highscore, choose Scene, open Highscore
+
+7. Under Main Camera - Highscore Script, change variables
+
+	Secretkey must be the same as in the php script
+	Locate files on server. (Important: add a questionmark at the end)
+	Skin: you can keep the default or customize
+	Get limit score: the number of scores you get back
+	
+

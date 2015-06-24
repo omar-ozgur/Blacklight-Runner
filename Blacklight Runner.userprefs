@@ -1,0 +1,54 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Goal.js">
+    <Files>
+      <File FileName="Assets/Standard Assets/Character Controllers/Sources/Scripts/ThirdPersonController.js" Line="193" Column="41" />
+      <File FileName="Assets/Standard Assets/Character Controllers/Sources/Scripts/CharacterMotor.js" Line="425" Column="83" />
+      <File FileName="Assets/Standard Assets/Character Controllers/Sources/Scripts/FPSInputController.js" Line="32" Column="35" />
+      <File FileName="Assets/Scripts/DestroyTimer.js" Line="18" Column="7" />
+      <File FileName="Assets/Scripts/Menu.js" Line="13" Column="2" />
+      <File FileName="Assets/Scripts/Counter.js" Line="11" Column="44" />
+      <File FileName="Assets/Scripts/Loading.js" Line="6" Column="2" />
+      <File FileName="Assets/Scripts/Spin.js" Line="5" Column="21" />
+      <File FileName="Assets/Scripts/Restart.js" Line="16" Column="39" />
+      <File FileName="Assets/Scripts/Music.js" Line="18" Column="35" />
+      <File FileName="Assets/Scripts/MusicManager.js" Line="15" Column="23" />
+      <File FileName="Assets/Scripts/LevelName.js" Line="8" Column="17" />
+      <File FileName="Assets/Scripts/Fallout.js" Line="15" Column="1" />
+      <File FileName="Assets/Scripts/Goal.js" Line="53" Column="50" />
+      <File FileName="Assets/Scripts/TimerManager.js" Line="19" Column="3" />
+      <File FileName="Assets/Scripts/TimerCounter.js" Line="7" Column="28" />
+      <File FileName="Assets/Scripts/Fire.js" Line="3" Column="1" />
+      <File FileName="Assets/Scripts/WorldSelect .js" Line="75" Column="7" />
+      <File FileName="Assets/Scripts/Timer.js" Line="141" Column="40" />
+      <File FileName="Assets/Scripts/Rotate-Z1.js" Line="5" Column="29" />
+      <File FileName="Assets/Scripts/RotateZ2.js" Line="5" Column="30" />
+      <File FileName="Assets/Scripts/noCursor.js" Line="6" Column="4" />
+      <File FileName="Assets/Scripts/Flip.js" Line="9" Column="2" />
+      <File FileName="Assets/Scripts/Death.js" Line="16" Column="75" />
+      <File FileName="Assets/Scripts/Checkpoint.js" Line="12" Column="13" />
+      <File FileName="Assets/Scripts/Score.js" Line="59" Column="15" />
+      <File FileName="Assets/Scripts/OldLevel.js" Line="8" Column="2" />
+      <File FileName="Assets/Scripts/Quit.js" Line="9" Column="42" />
+      <File FileName="Assets/Scripts/Don'tDestroy.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MusicToggle.js" Line="12" Column="55" />
+      <File FileName="Assets/Scripts/Info.js" Line="15" Column="35" />
+      <File FileName="Assets/Scripts/About.js" Line="5" Column="21" />
+      <File FileName="Assets/Scripts/Credits.js" Line="5" Column="102" />
+      <File FileName="Assets/Scripts/Help.js" Line="5" Column="204" />
+      <File FileName="Assets/Scripts/Copyright.js" Line="7" Column="35" />
+      <File FileName="Assets/Scripts/Quit2.js" Line="9" Column="101" />
+      <File FileName="Assets/Scripts/Scaler40.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Perspective.js" Line="64" Column="15" />
+      <File FileName="Assets/Scripts/TotalDeaths.js" Line="8" Column="35" />
+      <File FileName="Assets/Scripts/ExtremeMode.js" Line="23" Column="35" />
+      <File FileName="Assets/Scripts/Perspective1.js" Line="28" Column="66" />
+      <File FileName="Assets/Scripts/Moving.js" Line="1" Column="1" />
+      <File FileName="Assets/KongregateAPI.js" Line="30" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
